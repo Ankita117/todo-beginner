@@ -1,0 +1,34 @@
+*{
+    background-color: aquamarine;
+    margin:20px;
+}
+
+h1{
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+}
+h1{
+    font-family: cursive;
+}
+
+.styling{
+    text-align: center;
+}
+.todo{
+    text-align: center;
+}
+
+.todo li{
+    list-style: none;
+    height:40px;
+    line-height:45px;
+    position: relative;
+    background:#882D61;
+    border-radius: 10px;
+    padding:0 20px;
+    cursor: pointer;
+    margin-bottom: 8px;
+}
+.todo li:hover{
+    color:rgb(163, 159, 159);
+}
